@@ -249,19 +249,13 @@ void Error_Handler(void)
 {
   __disable_irq();
   while (1)
-
-
 ```
 
-
-
 ## Output screen shots of proteus  :
-![LCD](https://github.com/user-attachments/assets/3468b3f0-f289-4199-8400-b02b01d97034)
+![Screenshot 2024-11-20 162415](https://github.com/user-attachments/assets/b34563fd-1a32-4706-bc3e-915f1c78a86c)
 
- 
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
-![ex3 report](https://github.com/user-attachments/assets/031e2cb5-4f41-4083-9da2-c30d9dd23b71)
+![Screenshot 2024-11-20 162511](https://github.com/user-attachments/assets/4b1c0dfd-bcb1-48f8-9013-8edada8f4ea9)
 
- 
 ## Result :
 Interfacing a lcd display with ARM microcontroller are simulated in proteus and the results are verified.
